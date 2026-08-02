@@ -1,0 +1,7 @@
+**result
+.cache
+*build
+**sdkconfig.old
+**html_report
+**report.json
+**warnings.txt
